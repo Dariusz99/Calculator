@@ -12,6 +12,7 @@ public class Kalkulator extends JFrame implements ActionListener
     float number1, number2;
     double sum;
     int last;
+	//branch test
 
     public Kalkulator()
     {
